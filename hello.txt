@@ -2,3 +2,6 @@ hello git222222222
 hello git
 hello fafa nihaoshuai
 System.out.print
+public static void main(){
+	System.out.println("发哥，你好靓仔！");
+}
