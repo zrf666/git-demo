@@ -6,3 +6,4 @@ public static void main(){
 	System.out.println("发哥，你好靓仔！");
 }
 111111111111111
+hello dajiaho oshi linghuc
