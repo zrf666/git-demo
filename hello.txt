@@ -16,3 +16,5 @@ ssh ssh ssh ssh ssh ssh
 hot-fix branch
 hello world
 测试合并master
+
+测试远程合并
