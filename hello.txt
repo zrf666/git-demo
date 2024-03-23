@@ -18,3 +18,4 @@ hello world
 测试合并master
 
 测试远程合并
+测试远程修改，本地也修改，push的情况
